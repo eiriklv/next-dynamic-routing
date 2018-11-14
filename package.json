@@ -1,0 +1,16 @@
+{
+  "name": "create-next-example-app",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "next": "^7.0.2",
+    "next-routes": "^1.4.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "url": "^0.11.0"
+  }
+}
